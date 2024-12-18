@@ -1,5 +1,7 @@
 # Short URL Service
-Note: Remember I made this project for my learning purpose only hence it will show local host
+
+**Note: Remember I made this project for my learning purpose only hence it will show local host**
+
 This project is a **URL Shortener** application built using **Node.js**, **Express.js**, and **MongoDB**. It allows users to generate short URLs for long URLs and tracks analytics such as the number of times a short URL was visited.
 
 ## 🚀 **Features**
